@@ -1,4 +1,4 @@
-#basic accounting app using node
+# basic accounting app using node
 You need to install nodemon with global environment first
 
 ```sh
@@ -10,12 +10,12 @@ or you can install as root with
 sudo npm i nodemon -g
 ```
 
-##installation
+## installation
 ```sh
 npm install
 ```
 
-##run application
+## run application
 upload the sql files into your xampp server
 and
 
