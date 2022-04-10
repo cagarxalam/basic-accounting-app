@@ -1,0 +1,11 @@
+.wrapper{
+	margin-top: 70px;
+	display: flex; 
+	justify-content: space-between;
+}
+.wrapper-button {
+	margin-bottom: 20px;
+}
+#filter {
+	display: flex;
+}

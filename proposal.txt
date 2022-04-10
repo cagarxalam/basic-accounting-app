@@ -1,0 +1,8 @@
+Hi Aleksi,
+
+I've checked your images. And have figured out your problems, I think the text box goes widens and offscreen because there is a bug on your javascript files. I can fix your js files, so your box won't widen anymore. I have attached a webpage that I've made that has a text box. And it doesn't widen and offscreen on my page.
+
+Feel free to contact me if you're interested.
+
+Thanks,
+Bayu
